@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T18:21:15.471811+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2025-10-23T19:18:28.880482+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时23分 ~ 18时21分]"
+          "appearance_count": 13,
+          "time_info": "[12时23分 ~ 19时18分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -88,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时15分 ~ 18时21分]"
+          "appearance_count": 17,
+          "time_info": "[07时15分 ~ 19时18分]"
         },
         {
           "title": "他被特朗普当众羞辱，全场都在哄笑",
@@ -112,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时18分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 19时18分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -183,8 +183,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时18分 ~ 18时21分]"
+          "appearance_count": 12,
+          "time_info": "[13时18分 ~ 19时18分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -204,11 +204,12 @@
           "ranks": [
             14,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时03分 ~ 18时21分]"
+          "appearance_count": 14,
+          "time_info": "[11时03分 ~ 19时18分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -238,8 +239,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时31分 ~ 18时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 19时18分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -286,6 +287,17 @@
           "time_info": "[02时30分 ~ 07时16分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 19时18分]"
+        },
+        {
           "title": "特朗普取消与普京会面",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%96%E6%B6%88%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E9%9D%A2%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D5%26band_rank%3D5%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%258F%2596%25E6%25B6%2588%25E4%25B8%258E%25E6%2599%25AE%25E4%25BA%25AC%25E4%25BC%259A%25E9%259D%25A2%2523%26cate%3D5001%26dgr%3D0%26realpos%3D5%26display_time%3D1761193389%26pre_seqid%3D1761193389600032949776",
           "source": "微博",
@@ -330,17 +342,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时21分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -523,9 +524,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 19时18分]"
         },
         {
           "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
@@ -613,18 +627,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
-        },
-        {
-          "title": "为何没人知晓特朗普家族如今赚多少钱",
-          "url": "https://www.toutiao.com/trending/7564312142908755510/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "唐驳虎：特朗普第一次对普京动真格",
@@ -832,7 +834,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -843,7 +845,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -1070,8 +1072,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时21分 ~ 18时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 19时18分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1109,8 +1111,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 18时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时31分 ~ 19时18分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1308,7 +1310,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -1400,6 +1402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "摩根大通：黄金是我们今年最看好的长期投资标的，不过随着美联储降息周期的开启，我们仍认为金价有进一步上涨空间。我们预计到2028年金价将达到6000美元。",
+          "url": "https://flash.jin10.com/detail/20251023191500162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
@@ -1501,8 +1514,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时21分 ~ 18时21分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 19时18分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -1611,7 +1624,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1639,6 +1652,17 @@
           "time_info": "[01时18分 ~ 02时30分]"
         },
         {
+          "title": "OpenAI与英国司法部达成里程碑合作 将首次提供本土数据托管服务",
+          "url": "https://flash.jin10.com/detail/20251023191039963800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
           "url": "https://wallstreetcn.com/livenews/2992057",
           "source": "华尔街见闻-快讯",
@@ -1648,6 +1672,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
