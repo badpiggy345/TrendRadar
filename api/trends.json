@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T21:32:25.858640+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2025-10-23T22:20:22.997873+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
@@ -112,8 +112,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[13时18分 ~ 22时20分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -155,6 +155,17 @@
           "time_info": "[00时31分 ~ 07时16分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时25分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
           "url": "https://www.toutiao.com/trending/7563604843634544147/",
           "source": "今日头条",
@@ -183,8 +194,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时18分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[13时18分 ~ 22时20分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -210,8 +221,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时03分 ~ 21时32分]"
+          "appearance_count": 17,
+          "time_info": "[11时03分 ~ 22时20分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -278,17 +289,6 @@
           "time_info": "[00时31分 ~ 13时19分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时25分 ~ 21时32分]"
-        },
-        {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
           "url": "https://www.cls.cn/detail/2177223",
           "source": "财联社热门",
@@ -299,6 +299,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时30分 ~ 07时16分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普取消与普京会面",
@@ -345,17 +356,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时21分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时32分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -892,7 +892,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1013,7 +1013,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1090,7 +1090,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1131,7 +1131,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1141,8 +1141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 22时20分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1305,7 +1305,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1338,9 +1338,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、黄金ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2992636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251023214255610800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "拉斯维加斯金沙三季度净营收33.3亿美元，分析师预期30.4亿美元。 三季度中国澳门净营收19.1亿美元，分析师预期18.4亿美元。 拉斯维加斯金沙（LVS）美股盘后涨5%。",
@@ -1376,6 +1398,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美股短线跳水，标普500指数跌超1%。",
           "url": "https://flash.jin10.com/detail/20251023003249960800",
           "source": "金十数据",
@@ -1393,7 +1426,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1542,6 +1575,17 @@
           "time_info": "[00时31分 ~ 02时30分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时39分 ~ 22时20分]"
+        },
+        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
@@ -1563,17 +1607,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时03分 ~ 12时23分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 21时32分]"
         },
         {
           "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
@@ -1604,7 +1637,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         }
@@ -1638,8 +1671,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时21分 ~ 21时32分]"
+          "appearance_count": 18,
+          "time_info": "[09时21分 ~ 22时20分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -1748,7 +1781,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1807,6 +1840,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
