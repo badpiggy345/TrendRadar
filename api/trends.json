@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:21:13.735692+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2025-10-23T18:21:15.471811+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 85,
+      "match_count": 88,
       "titles": [
         {
           "title": "特朗普取消与普京会面，克里姆林宫回应",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时23分 ~ 17时21分]"
+          "appearance_count": 12,
+          "time_info": "[12时23分 ~ 18时21分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -88,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时15分 ~ 17时21分]"
+          "appearance_count": 16,
+          "time_info": "[07时15分 ~ 18时21分]"
         },
         {
           "title": "他被特朗普当众羞辱，全场都在哄笑",
@@ -101,6 +101,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时03分 ~ 15时20分]"
+        },
+        {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 18时21分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -127,18 +140,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时21分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 17时21分]"
         },
         {
           "title": "“不要国王”反特朗普抗议席卷全美，“卖崽青蛙”为何成了抗议标志？",
@@ -173,6 +174,19 @@
           "time_info": "[00时31分 ~ 11时03分]"
         },
         {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 18时21分]"
+        },
+        {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
           "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
           "source": "凤凰网",
@@ -182,6 +196,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时16分]"
+        },
+        {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时03分 ~ 18时21分]"
         },
         {
           "title": "特朗普“强拆”白宫东翼引争议，新建宴会厅面积和资金来源遭质疑",
@@ -211,8 +238,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 17时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 18时21分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -233,18 +260,6 @@
           "time_info": "[00时31分 ~ 12时23分]"
         },
         {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时03分 ~ 17时21分]"
-        },
-        {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
           "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
           "source": "澎湃新闻",
@@ -257,19 +272,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 13时19分]"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 17时21分]"
         },
         {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
@@ -328,6 +330,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时21分 ~ 14时30分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时25分 ~ 18时21分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -504,6 +517,17 @@
           "time_info": "[09时21分 ~ 13时19分]"
         },
         {
+          "title": "日本经济产业大臣赤泽亮正：特朗普的行动导致世界局势可预测性下降。",
+          "url": "https://flash.jin10.com/detail/20251023174334928800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
           "title": "美国参议院多数派领导人Thune：可能会让参议院全体表决关于制裁俄罗斯的立法草案。 已经与总统特朗普的白宫讨论过关于（与美国贸易相关的）阿根廷牛肉问题。",
           "url": "https://wallstreetcn.com/livenews/2992038",
           "source": "华尔街见闻-快讯",
@@ -528,17 +552,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 12时23分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时25分 ~ 17时21分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -600,6 +613,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时15分]"
+        },
+        {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 18时21分]"
         },
         {
           "title": "唐驳虎：特朗普第一次对普京动真格",
@@ -801,15 +826,26 @@
           "time_info": "[16时25分 ~ 16时26分]"
         },
         {
-          "title": "为何没人知晓特朗普家族如今赚多少钱",
-          "url": "https://www.toutiao.com/trending/7564312142908755510/",
-          "source": "今日头条",
+          "title": "日本经济产业大臣赤泽亮正：特朗普试图改变世界秩序。",
+          "url": "https://flash.jin10.com/detail/20251023174306827800",
+          "source": "金十数据",
           "ranks": [
-            29
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 17时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：将“稳步”推进海上风力发电的后续项目。 愿与G7及其他国家合作，共同探讨符合日本国家利益的必要举措。 特朗普试图改变全球秩序。 特朗普的行动导致世界可预测性下降。",
+          "url": "https://wallstreetcn.com/livenews/2992511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -1034,8 +1070,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时21分 ~ 18时21分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1073,8 +1109,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 17时21分]"
+          "appearance_count": 24,
+          "time_info": "[00时31分 ~ 18时21分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1138,7 +1174,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -1286,6 +1322,20 @@
           "time_info": "[00时31分 ~ 13时19分]"
         },
         {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时18分 ~ 18时21分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26pos%3D24%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26realpos%3D25%26cate%3D5001%26display_time%3D1761150158%26pre_seqid%3D17611501584580326279138",
           "source": "微博",
@@ -1299,20 +1349,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时31分 ~ 07时16分]"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 17时21分]"
         },
         {
           "title": "黄金价格为何突然大幅回调",
@@ -1465,8 +1501,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时21分 ~ 17时21分]"
+          "appearance_count": 14,
+          "time_info": "[09时21分 ~ 18时21分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
