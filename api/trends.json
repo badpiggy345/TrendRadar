@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T15:19:15.946060+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2025-11-06T16:26:52.795489+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时26分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -42,6 +42,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时27分 ~ 16时26分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -80,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时18分 ~ 15时19分]"
+          "appearance_count": 13,
+          "time_info": "[05时18分 ~ 16时26分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -94,17 +106,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时25分 ~ 09时26分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时27分 ~ 15时19分]"
         },
         {
           "title": "特朗普的大麻烦来了",
@@ -131,6 +132,17 @@
           "time_info": "[09时26分 ~ 11时14分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时26分]"
+        },
+        {
           "title": "纽约新市长为何成特朗普的“噩梦”",
           "url": "https://www.toutiao.com/trending/7569209850954026547/",
           "source": "今日头条",
@@ -143,17 +155,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 15时19分]"
         },
         {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
@@ -198,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
+        },
+        {
+          "title": "瑞银：特朗普关税若被推翻，美国财政承压之际美联储或迎降息契机",
+          "url": "https://flash.jin10.com/detail/20251106161902252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         },
         {
           "title": "梅西百货（M）涨9.5%，卡特（CRI）涨9.7%，美泰（MAT）涨4.4%，投资者关注“美国最高法院多名关键性法官对总统特朗普全球关税政策合法性的怀疑态度”。",
@@ -506,6 +518,17 @@
           "time_info": "11时14分"
         },
         {
+          "title": "法国外贸银行：特朗普关税案若败诉，美贸易政策将陷入更深不确定性之中",
+          "url": "https://flash.jin10.com/detail/20251106160417235800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国总统特朗普：将不会出席在南非举行的G20会议。",
           "url": "https://flash.jin10.com/detail/20251106030531792800",
           "source": "金十数据",
@@ -632,8 +655,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时26分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -671,8 +694,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时26分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -1112,6 +1135,79 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 06时19分]"
+        },
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时26分]"
+        },
+        {
+          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
+          "url": "https://flash.jin10.com/detail/20251106011605092800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时27分 ~ 03时16分]"
+        },
+        {
+          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
+          "url": "https://wallstreetcn.com/livenews/3000088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
+          "url": "https://www.cls.cn/detail/2192526",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
+          "url": "https://wallstreetcn.com/livenews/2999987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1144,7 +1240,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -1169,68 +1265,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时19分]"
-        },
-        {
-          "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
-          "url": "https://flash.jin10.com/detail/20251106011605092800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时16分]"
-        },
-        {
-          "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
-          "url": "https://wallstreetcn.com/livenews/3000088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "标普500指数涨0.25%，纳指涨0.42%，半导体指数涨2.2%。 美国10年期国债收益率短线从4.12%附近拉升至4.14%上方，日内整体涨幅超过5个基点。 两年期美债收益率从3.59%附近“跳空”拉升至3.62%上方，日内涨超4个基点。",
-          "url": "https://wallstreetcn.com/livenews/2999987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
