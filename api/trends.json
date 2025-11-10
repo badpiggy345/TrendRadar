@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T22:20:16.189500+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2025-11-10T23:21:58.744567+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
@@ -59,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[14时30分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[14时30分 ~ 23时21分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -197,6 +197,17 @@
           "time_info": "18时22分"
         },
         {
+          "title": "美国众议长约翰逊：（特朗普政府关门这个）“噩梦”终于要结束了。 参议院投票过后，我将召集众议员重返华盛顿——众议院复会。",
+          "url": "https://wallstreetcn.com/livenews/3002222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "特朗普称政府停摆接近结束",
           "url": "https://flash.jin10.com/detail/20251110085906374800",
           "source": "金十数据",
@@ -206,6 +217,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "获400亿美元援助后米莱大跳特朗普舞",
+          "url": "https://www.toutiao.com/trending/7570573863009124361/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            7,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 23时21分]"
         },
         {
           "title": "特朗普被严重警告",
@@ -290,19 +315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "获400亿美元援助后米莱大跳特朗普舞",
-          "url": "https://www.toutiao.com/trending/7570573863009124361/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 21时32分]"
         },
         {
           "title": "参议院公布三项立法草案，作为结束特朗普政府停摆提案的一部分",
@@ -540,13 +552,24 @@
           "time_info": "21时32分"
         },
         {
+          "title": "因剪辑拼接特朗普视频，BBC高管辞职",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31929721",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "以色列政府发言人：关于被困哈马斯武装人员的任何决定都将与特朗普政府合作作出。",
           "url": "https://flash.jin10.com/detail/20251110214623760800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -557,7 +580,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -609,7 +632,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -639,8 +662,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时19分 ~ 22时20分]"
+          "appearance_count": 19,
+          "time_info": "[11时19分 ~ 23时21分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -655,6 +678,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时26分 ~ 16时27分]"
+        },
+        {
+          "title": "大摩策略师Wilson：2026年企业盈利将推动美股稳健上涨",
+          "url": "https://wallstreetcn.com/livenews/3002226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "周一亚太盘初，美股三大指数期货高开，纳指期货涨0.7%。 现货黄金报4005美元/盎司，日内涨0.1%。 WTI原油、布伦特原油周一小幅高开。",
@@ -688,8 +722,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时39分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[20时39分 ~ 23时21分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时21分]"
         },
         {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
@@ -726,15 +772,15 @@
           "time_info": "18时22分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3002194",
+          "title": "行业ETF美股盘初多数上涨，半导体ETF、全球科技股指数ETF、科技行业ETF至多涨2.69%。",
+          "url": "https://wallstreetcn.com/livenews/3002213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "23时21分"
         }
       ]
     },
@@ -804,8 +850,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时16分 ~ 22时20分]"
+          "appearance_count": 7,
+          "time_info": "[19时16分 ~ 23时21分]"
         },
         {
           "title": "伊朗将启动货币改革，删除面值末四个零",
@@ -936,6 +982,40 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时20分 ~ 07时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3002225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3002210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         }
       ]
     }
