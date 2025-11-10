@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:23:15.183059+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-11-10T18:22:12.492672+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
@@ -120,6 +120,19 @@
           "time_info": "[09时27分 ~ 14时31分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时30分 ~ 18时22分]"
+        },
+        {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
           "url": "https://flash.jin10.com/detail/20251109225052216800",
           "source": "金十数据",
@@ -148,18 +161,6 @@
           "time_info": "[00时20分 ~ 06时17分]"
         },
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时30分 ~ 17时23分]"
-        },
-        {
           "title": "特朗普炮轰美最高法院 为自己的关税政策激烈辩护",
           "url": "https://flash.jin10.com/detail/20251109213351299800",
           "source": "金十数据",
@@ -182,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110180323905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普称政府停摆接近结束",
@@ -480,6 +492,17 @@
           "time_info": "11时19分"
         },
         {
+          "title": "以色列总理内塔尼亚胡正在其位于耶路撒冷的办公室会见特朗普女婿贾里德·库什纳。",
+          "url": "https://flash.jin10.com/detail/20251110175508186800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "美国总统特朗普：看来我们离结束政府停摆已经非常接近了。",
           "url": "https://flash.jin10.com/detail/20251110081856898800",
           "source": "金十数据",
@@ -516,7 +539,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -543,8 +566,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时19分 ~ 17时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时19分 ~ 18时22分]"
         },
         {
           "title": "美政府关门有望结束，美股期货、加密货币、黄金白银全线走高",
@@ -587,17 +610,40 @@
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时23分 ~ 18时22分]"
+        },
+        {
+          "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
+          "url": "https://flash.jin10.com/detail/20251110175803111800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "18时22分"
+        },
+        {
+          "title": "美股无惧停摆与美联储指引 华尔街高呼“暂时性逆风”不改大局",
+          "url": "https://flash.jin10.com/detail/20251110175802667800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价",
@@ -614,13 +660,24 @@
           "time_info": "[11时19分 ~ 15时19分]"
         },
         {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
+        },
+        {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
           "url": "https://flash.jin10.com/detail/20251110164825040800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
@@ -648,7 +705,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时23分"
         },
