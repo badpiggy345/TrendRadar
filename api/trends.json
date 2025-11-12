@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:20:54.888491+08:00",
-  "total_titles_processed": 1975,
+  "generated_at": "2025-11-12T23:24:05.849445+08:00",
+  "total_titles_processed": 2073,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -161,17 +161,6 @@
           "time_info": "[11时12分 ~ 11时13分]"
         },
         {
-          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3003486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
           "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
           "url": "https://flash.jin10.com/detail/20251112070247139800",
           "source": "金十数据",
@@ -189,9 +178,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
+        },
+        {
+          "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
+          "url": "https://wallstreetcn.com/livenews/3003514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "特朗普为何拒为高市涉台谬论撑腰",
@@ -219,6 +219,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时17分 ~ 03时16分]"
+        },
+        {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时24分]"
         },
         {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
@@ -494,7 +506,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -593,7 +605,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -681,7 +693,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -728,6 +740,194 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时17分 ~ 15时19分]"
+        },
+        {
+          "title": "美银：机构投资者在美股回调时买入",
+          "url": "https://flash.jin10.com/detail/20251112203854090800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
+          "url": "https://wallstreetcn.com/livenews/3003320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时22分]"
+        },
+        {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时32分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
+          "url": "https://wallstreetcn.com/livenews/3002988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "AMD股价美股盘后涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3002982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时18分]"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3003475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "美股释放“不祥之兆” 标普500中创新低股票数量持续增加",
+          "url": "https://flash.jin10.com/detail/20251112201822781800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "AMD积极前景驱动基准指数走强 美股仍处于复杂情绪交织中",
+          "url": "https://flash.jin10.com/detail/20251112230532535800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013235058800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251112013227930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050821592800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
+          "url": "https://wallstreetcn.com/livenews/3002976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251112050514200800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
+          "url": "https://flash.jin10.com/detail/20251112050055390800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
         }
       ]
     },
@@ -852,7 +1052,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -863,7 +1063,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -874,7 +1074,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -910,183 +1110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时17分 ~ 15时19分]"
-        },
-        {
-          "title": "美银：机构投资者在美股回调时买入",
-          "url": "https://flash.jin10.com/detail/20251112203854090800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
-          "url": "https://flash.jin10.com/detail/20251112211910657800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "AMD美股盘前涨近6%，CEO苏姿丰预计到2030年AI数据中心市场规模料突破1万亿美元，AMD营收年增或超35%。",
-          "url": "https://wallstreetcn.com/livenews/3003320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时22分]"
-        },
-        {
-          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
-          "url": "https://wallstreetcn.com/livenews/3003429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 21时32分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
-          "url": "https://wallstreetcn.com/livenews/3002988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "AMD股价美股盘后涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3002982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时19分 ~ 07时18分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3003475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "美股释放“不祥之兆” 标普500中创新低股票数量持续增加",
-          "url": "https://flash.jin10.com/detail/20251112201822781800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013235058800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251112013227930800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050821592800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
-          "url": "https://wallstreetcn.com/livenews/3002976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251112050514200800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 英伟达跌近3%",
-          "url": "https://flash.jin10.com/detail/20251112050055390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
         }
       ]
     },
@@ -1311,6 +1334,57 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 23时24分]"
+        },
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
+          "url": "https://flash.jin10.com/detail/20251112220357212800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1384,7 +1458,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         },
@@ -1409,46 +1483,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时23分 ~ 22时20分]"
-        },
-        {
-          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/3003444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "美债收益率和美元上涨 市场焦点转向积压经济数据",
-          "url": "https://flash.jin10.com/detail/20251112220357212800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         }
       ]
     }
