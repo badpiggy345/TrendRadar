@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T18:21:50.831004+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-14T19:16:42.364677+08:00",
+  "total_titles_processed": 1672,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 18时21分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 19时16分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -40,8 +40,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时16分]"
+        },
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 19时16分]"
         },
         {
           "title": "英国文化大臣南迪：BBC已经正确地接受了在特朗普纪录片中，它的表现未达最高标准。BBC是英国乃至全球一个极其重要的机构。BBC向美国总统特朗普道歉是正确的。",
@@ -66,18 +78,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 18时21分]"
-        },
-        {
           "title": "英国广播公司（BBC）第二次篡改了美国总统特朗普的演讲。",
           "url": "https://flash.jin10.com/detail/20251114010952767800",
           "source": "金十数据",
@@ -87,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114180335424800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时21分"
         },
         {
           "title": "美国准备实施一定程度上的关税豁免，从而降低食品价格。 其中将包括牛肉和柑橘（类）产品。 然而，总统特朗普尚未做最终的决定。（纽约时报）",
@@ -122,6 +111,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 04时22分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114180335424800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 19时16分]"
         },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
@@ -474,7 +475,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -503,6 +504,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时19分 ~ 07时18分]"
+        },
+        {
+          "title": "随着比特币价格跌至六个月以来新低，美股数字货币概念股盘前走低。Riot Platforms跌2.4%，Hut 8 Mining跌3.7%，Mara Holdings跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20251114183904894800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -677,7 +689,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -706,6 +718,17 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时23分 ~ 14时31分]"
+        },
+        {
+          "title": "OpenAI战略布局解读",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
@@ -810,7 +833,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
