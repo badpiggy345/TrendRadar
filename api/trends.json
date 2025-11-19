@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:40:01.721011+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2025-11-19T21:32:08.146823+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[11时11分 ~ 21时32分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -59,8 +59,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时23分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[12时23分 ~ 21时32分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 21时32分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -128,17 +139,6 @@
           "time_info": "[02时29分 ~ 04时22分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时40分]"
-        },
-        {
           "title": "美国总统特朗普：更多被扣押人员的遗体已交付给以色列家庭，还有两具待交付。",
           "url": "https://flash.jin10.com/detail/20251119085926432800",
           "source": "金十数据",
@@ -181,6 +181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 21时32分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -245,6 +256,18 @@
           "time_info": "[00时26分 ~ 01时19分]"
         },
         {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 21时32分]"
+        },
+        {
           "title": "美国总统特朗普结束在白宫的讲话。",
           "url": "https://flash.jin10.com/detail/20251119021212716800",
           "source": "金十数据",
@@ -281,17 +304,6 @@
           "time_info": "[00时25分 ~ 01时19分]"
         },
         {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 20时40分]"
-        },
-        {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
           "url": "https://news.ifeng.com/c/8oPCfhjamik",
           "source": "凤凰网",
@@ -314,17 +326,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普怒怼ABC女记者",
-          "url": "https://www.toutiao.com/trending/7574268540435136563/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "美国总统特朗普：我从未去过爱泼斯坦的小岛。",
@@ -715,7 +716,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -956,11 +957,12 @@
           "ranks": [
             11,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时21分 ~ 20时40分]"
+          "appearance_count": 8,
+          "time_info": "[17时21分 ~ 21时32分]"
         },
         {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
@@ -1157,7 +1159,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1169,8 +1171,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时23分 ~ 20时40分]"
+          "appearance_count": 17,
+          "time_info": "[09时23分 ~ 21时32分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1183,8 +1185,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[11时11分 ~ 21时32分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1202,25 +1204,6 @@
           "time_info": "[02时28分 ~ 09时23分]"
         },
         {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            12,
-            13,
-            6,
-            7,
-            19,
-            20,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 19时17分]"
-        },
-        {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2204501",
           "source": "财联社热门",
@@ -1233,6 +1216,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[11时11分 ~ 16时26分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12,
+            13,
+            6,
+            7,
+            19,
+            20,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时11分 ~ 21时32分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时18分 ~ 21时32分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1260,19 +1278,15 @@
           "time_info": "[09时23分 ~ 13时20分]"
         },
         {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
           "ranks": [
-            9,
-            18,
-            21,
-            23,
-            24
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 20时40分]"
+          "appearance_count": 2,
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -1424,7 +1438,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1530,19 +1544,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时23分 ~ 20时40分]"
+          "appearance_count": 16,
+          "time_info": "[09时23分 ~ 21时32分]"
         },
         {
           "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
           "url": "https://wallstreetcn.com/livenews/3007227",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时40分 ~ 21时32分]"
         },
         {
           "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
@@ -1551,7 +1566,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         },
@@ -1562,7 +1577,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时40分"
         }
