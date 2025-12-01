@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T11:50:59.729828+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2025-12-01T12:49:35.010394+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "“特朗普交易”遭重创",
@@ -44,6 +44,17 @@
           "time_info": "[00时23分 ~ 07时17分]"
         },
         {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
+        },
+        {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
           "url": "https://wallstreetcn.com/livenews/3012571",
           "source": "华尔街见闻-快讯",
@@ -55,15 +66,17 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
           "ranks": [
-            4
+            13,
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时49分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -114,6 +127,18 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时49分]"
+        },
+        {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
           "url": "https://flash.jin10.com/detail/20251201055141680800",
           "source": "金十数据",
@@ -124,6 +149,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时49分]"
         },
         {
           "title": "特朗普：已敲定美联储主席人选",
@@ -150,52 +187,17 @@
           "time_info": "[06时18分 ~ 07时17分]"
         },
         {
-          "title": "特朗普：俄乌和平协议“很有可能”达成",
-          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时50分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时50分]"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时50分]"
-        },
-        {
           "title": "特朗普：俄乌和平协议“很可能”达成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
           "source": "百度热搜",
           "ranks": [
             10,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时49分]"
         },
         {
           "title": "特朗普：已选定下任美联储主席",
@@ -205,8 +207,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 12时49分]"
+        },
+        {
+          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
+          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时50分 ~ 12时49分]"
         },
         {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
@@ -280,17 +293,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
-          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时50分"
-        },
-        {
           "title": "特朗普：乌克兰正面临“一些棘手的小问题”",
           "url": "https://wallstreetcn.com/livenews/3012559",
           "source": "华尔街见闻-快讯",
@@ -308,7 +310,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -352,7 +354,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         },
@@ -363,9 +365,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
+        },
+        {
+          "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
+          "url": "https://flash.jin10.com/detail/20251201112823735800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
@@ -380,11 +393,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 11时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时49分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -452,7 +466,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         }
@@ -487,8 +501,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 11时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时49分]"
         }
       ]
     },
@@ -503,7 +517,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时50分"
         }
