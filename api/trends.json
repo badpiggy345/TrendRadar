@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T19:19:49.506969+08:00",
-  "total_titles_processed": 1807,
+  "generated_at": "2025-12-12T20:41:09.396334+08:00",
+  "total_titles_processed": 1939,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             6,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时21分 ~ 19时19分]"
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 20时41分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -43,11 +44,12 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 20时41分]"
         },
         {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
@@ -73,6 +75,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时33分 ~ 15时23分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时41分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时28分 ~ 20时41分]"
         },
         {
           "title": "美国总统特朗普：周六有个会议，我们看看要不要参加。如果我们认为有很好的机会（达成乌克兰和平协议），我们会参加。",
@@ -119,18 +146,6 @@
           "time_info": "07时32分"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时19分]"
-        },
-        {
           "title": "美国总统特朗普：（谈委内瑞拉）行动很快就会在陆地上展开。",
           "url": "https://flash.jin10.com/detail/20251212071757771800",
           "source": "金十数据",
@@ -151,18 +166,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时32分"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时28分 ~ 19时19分]"
         },
         {
           "title": "特朗普废除拜登政府在阿拉斯加及其他州土地保护政策",
@@ -479,7 +482,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
@@ -774,8 +777,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时33分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 20时41分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1264,8 +1267,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 19时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 20时41分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1313,6 +1316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时30分 ~ 01时26分]"
+        },
+        {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时41分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1369,17 +1384,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         },
         {
           "title": "消息人士：谷歌(GOOG.O)为遵守具有里程碑意义的欧盟新规所做的努力仍显不足，其明年将因偏袒自家服务而面临欧盟罚款。",
@@ -1554,7 +1558,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
         },
