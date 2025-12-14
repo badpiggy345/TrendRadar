@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T20:37:11.428820+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2025-12-14T21:27:26.573078+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -165,6 +165,17 @@
           "time_info": "[11时28分 ~ 16时24分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 21时27分]"
+        },
+        {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
@@ -177,17 +188,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时28分 ~ 16时24分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 20时37分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -291,6 +291,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时18分]"
+        },
+        {
+          "title": "特朗普回应美士兵在叙遇袭身亡",
+          "url": "https://www.douyin.com/hot/2335907",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "特朗普的“新五常”计划可行吗",
@@ -530,6 +541,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -544,8 +572,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时19分 ~ 20时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时19分 ~ 21时27分]"
         }
       ]
     }
