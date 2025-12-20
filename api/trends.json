@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T16:24:25.901031+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2025-12-20T17:19:19.088057+08:00",
+  "total_titles_processed": 1259,
   "failed_sources": [],
   "trends": [
     {
@@ -51,6 +51,18 @@
           "time_info": "[00时25分 ~ 07时19分]"
         },
         {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时19分]"
+        },
+        {
           "title": "特朗普签署行政命令，重申2028年登月目标",
           "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
           "source": "澎湃新闻",
@@ -61,18 +73,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 06时19分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 16时24分]"
         },
         {
           "title": "金十提示：美国总统特朗普讲话结束。",
@@ -485,19 +485,6 @@
       "match_count": 14,
       "titles": [
         {
-          "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 07时19分]"
-        },
-        {
           "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
           "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
@@ -506,15 +493,17 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时19分]"
         },
         {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
+          "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
+          "url": "https://wallstreetcn.com/articles/3761704",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 11,
@@ -531,8 +520,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 16时24分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时19分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时25分 ~ 07时19分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -560,8 +560,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时26分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[12时26分 ~ 17时19分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -686,19 +686,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时23分 ~ 16时24分]"
-        },
-        {
-          "title": "伊朗处决一名为以色列工作的间谍",
-          "url": "https://flash.jin10.com/detail/20251220153845757800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时24分"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 17时19分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -710,6 +699,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时19分 ~ 09时24分]"
+        },
+        {
+          "title": "伊朗处决一名为以色列工作的间谍",
+          "url": "https://flash.jin10.com/detail/20251220153845757800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时24分 ~ 17时19分]"
         }
       ]
     },
@@ -773,8 +774,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时19分 ~ 16时24分]"
+          "appearance_count": 12,
+          "time_info": "[06时19分 ~ 17时19分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
