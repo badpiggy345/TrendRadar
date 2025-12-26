@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:21:53.262384+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2025-12-26T19:18:41.090948+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 18时21分]"
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 19时18分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -130,8 +130,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时21分]"
+          "appearance_count": 3,
+          "time_info": "[17时21分 ~ 19时18分]"
         },
         {
           "title": "特朗普人事强震引爆新争议",
@@ -151,7 +151,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -261,6 +261,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时24分 ~ 19时18分]"
+        },
+        {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
@@ -275,19 +288,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时24分 ~ 07时19分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 18时21分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
@@ -482,7 +482,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
