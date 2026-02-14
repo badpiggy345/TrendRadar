@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-02-14T17:30:04.340414+08:00",
-  "total_titles_processed": 1243,
+  "generated_at": "2026-02-14T18:25:54.340012+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 66,
       "titles": [
+        {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 18时25分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 18时25分]"
+        },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
@@ -41,6 +67,19 @@
           "time_info": "[04时37分 ~ 13时43分]"
         },
         {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 18时25分]"
+        },
+        {
           "title": "特朗普将访问委内瑞拉",
           "url": "https://news.ifeng.com/c/8qitxi0GRdt",
           "source": "凤凰网",
@@ -52,45 +91,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时37分 ~ 14时43分]"
-        },
-        {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 17时30分]"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 17时30分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 17时30分]"
         },
         {
           "title": "特朗普诉BBC诽谤案定于2027年2月开审",
@@ -154,6 +154,17 @@
           "time_info": "[03时41分 ~ 09时56分]"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 18时25分]"
+        },
+        {
           "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
           "url": "https://flash.jin10.com/detail/20260214094023773800",
           "source": "金十数据",
@@ -163,17 +174,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
-          "url": "https://flash.jin10.com/detail/20260214165909253800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
         },
         {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
@@ -188,17 +188,6 @@
           "time_info": "[12时10分 ~ 16时31分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
-          "url": "https://flash.jin10.com/detail/20260214165831489800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时30分"
-        },
-        {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
           "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
@@ -208,17 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 17时30分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -322,6 +300,18 @@
           "time_info": "[03时41分 ~ 05时34分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时25分]"
+        },
+        {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
           "url": "https://wallstreetcn.com/livenews/3055316",
           "source": "华尔街见闻-快讯",
@@ -333,6 +323,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时40分 ~ 03时41分]"
+        },
+        {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时25分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时30分 ~ 18时25分]"
         },
         {
           "title": "特朗普证实美军将向中东地区派出第二艘航母",
@@ -369,18 +384,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时41分]"
-        },
-        {
-          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
-          "url": "https://wallstreetcn.com/livenews/3055491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时30分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -805,8 +808,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时29分 ~ 17时30分]"
+          "appearance_count": 12,
+          "time_info": "[07时29分 ~ 18时25分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -906,6 +909,18 @@
           "time_info": "[06时32分 ~ 07时30分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时25分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
           "url": "https://wallstreetcn.com/livenews/3055367",
           "source": "华尔街见闻-快讯",
@@ -928,17 +943,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时32分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "公用事业ETF收跌超2.7%，领跌美股行业ETF",
@@ -1042,11 +1046,12 @@
           "ranks": [
             13,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 17时30分]"
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 18时25分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -1077,11 +1082,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            14
+            14,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时30分]"
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时25分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -1168,6 +1174,101 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美方代表团将于17日与伊朗会晤",
+          "url": "https://news.ifeng.com/c/8qjOCH5DINZ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时10分 ~ 18时25分]"
+        },
+        {
+          "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
+          "url": "https://news.ifeng.com/c/8qjjAveB5Qh",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时43分 ~ 18时25分]"
+        },
+        {
+          "title": "加拿大政府网站：加拿大根据《特别经济措施（伊朗）条例》对伊朗7名个人实施额外制裁。",
+          "url": "https://flash.jin10.com/detail/20260214171426770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "加拿大政府网站：加拿大宣布对伊朗实施更多制裁。",
+          "url": "https://flash.jin10.com/detail/20260214171329618800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://wallstreetcn.com/livenews/3055415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://flash.jin10.com/detail/20260214083231804800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "国际原子能机构：与伊朗对话继续，未来几天或决定下一步措施",
+          "url": "https://flash.jin10.com/detail/20260214082603396800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
+          "url": "https://flash.jin10.com/detail/20260214002952856800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 7,
       "titles": [
@@ -1197,8 +1298,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 17时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 18时25分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？最新披露",
@@ -1206,11 +1307,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 17时30分]"
+          "appearance_count": 7,
+          "time_info": "[14时43分 ~ 18时25分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1220,11 +1322,12 @@
             23,
             17,
             15,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 17时30分]"
+          "appearance_count": 7,
+          "time_info": "[14时43分 ~ 18时25分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1235,8 +1338,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 17时30分]"
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 18时25分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -1287,8 +1390,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 17时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 18时25分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1302,6 +1405,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时10分 ~ 15时34分]"
+        },
+        {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 18时25分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
@@ -1338,90 +1453,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时30分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美方代表团将于17日与伊朗会晤",
-          "url": "https://news.ifeng.com/c/8qjOCH5DINZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时10分 ~ 17时30分]"
-        },
-        {
-          "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
-          "url": "https://news.ifeng.com/c/8qjjAveB5Qh",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 17时30分]"
-        },
-        {
-          "title": "美方代表团将于17日与伊朗方面会晤",
-          "url": "https://wallstreetcn.com/livenews/3055415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "美方代表团将于17日与伊朗方面会晤",
-          "url": "https://flash.jin10.com/detail/20260214083231804800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "国际原子能机构：与伊朗对话继续，未来几天或决定下一步措施",
-          "url": "https://flash.jin10.com/detail/20260214082603396800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时56分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
-          "url": "https://flash.jin10.com/detail/20260214002952856800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
         }
       ]
     },
@@ -1429,6 +1460,19 @@
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时25分]"
+        },
         {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
           "url": "https://wallstreetcn.com/livenews/3055377",
@@ -1441,18 +1485,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时30分]"
-        },
-        {
-          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
-          "url": "https://flash.jin10.com/detail/20260214160547731800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时31分 ~ 17时30分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
