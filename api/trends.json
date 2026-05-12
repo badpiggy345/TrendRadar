@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T17:37:33.388803+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-12T19:57:26.063125+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -89,11 +89,12 @@
             5,
             8,
             22,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时32分 ~ 17时37分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 19时57分]"
         },
         {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
@@ -104,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 19时57分]"
         },
         {
           "title": "【早报】特朗普将访华，中方回应；京沪高铁：部分线路涨价",
@@ -145,6 +146,19 @@
           "time_info": "[00时32分 ~ 07时57分]"
         },
         {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 19时57分]"
+        },
+        {
           "title": "白银价格大涨逾7% 特朗普称停火协议已岌岌可危 | 环球市场",
           "url": "https://www.cls.cn/detail/2368480",
           "source": "财联社热门",
@@ -167,19 +181,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 17时37分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
@@ -226,6 +227,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
           "url": "https://wallstreetcn.com/livenews/3101781",
           "source": "华尔街见闻-快讯",
@@ -249,6 +261,19 @@
           "time_info": "[11时23分 ~ 17时37分]"
         },
         {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 19时57分]"
+        },
+        {
           "title": "特朗普发文称非常期待中国之行",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E7%A7%B0%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%B9%8B%E8%A1%8C%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -259,6 +284,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时23分 ~ 14时36分]"
+        },
+        {
+          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 19时57分]"
         },
         {
           "title": "美国总统特朗普：我们需要更多关税。",
@@ -273,16 +311,17 @@
           "time_info": "[04时48分 ~ 06时07分]"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
           "source": "澎湃新闻",
           "ranks": [
+            20,
             13,
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 19时57分]"
         },
         {
           "title": "特朗普访华传递了哪些信号",
@@ -291,30 +330,6 @@
           "ranks": [
             16,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 17时37分]"
-        },
-        {
-          "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33157149",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 17时37分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -342,6 +357,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时23分 ~ 11时24分]"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时57分]"
         },
         {
           "title": "陪同特朗普来华企业曝光：新增马斯克",
@@ -498,6 +525,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "美国总统特朗普：我们等了伊朗四天，而他们的那份文件准备起来其实十分钟都用不了。",
           "url": "https://flash.jin10.com/detail/20260512000657529800",
           "source": "金十数据",
@@ -529,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
+        },
+        {
+          "title": "“摇摆右翼”倒戈，特朗普正在失去他最需要的选民",
+          "url": "https://flash.jin10.com/detail/20260512193701987800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
@@ -773,17 +822,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "受邀陪特朗普访华的企业与华有何渊源",
-          "url": "https://www.toutiao.com/trending/7638696162195308570/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "白宫官员：特朗普周一将签署行政命令，允许增加牛肉进口并支持美国牛群存栏恢复。",
           "url": "https://flash.jin10.com/detail/20260512020630622800",
           "source": "金十数据",
@@ -842,7 +880,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -875,8 +913,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 19时57分]"
         },
         {
           "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
@@ -902,6 +940,18 @@
           "time_info": "[00时32分 ~ 07时57分]"
         },
         {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时57分]"
+        },
+        {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
           "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
           "source": "凤凰网",
@@ -913,15 +963,26 @@
           "time_info": "[11时23分 ~ 11时24分]"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时57分]"
+        },
+        {
+          "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
+          "url": "https://wallstreetcn.com/livenews/3102289",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时37分"
+          "time_info": "19时57分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -955,17 +1016,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
-        },
-        {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，与一些西方媒体的说法相反，伊朗的文本中绝不含任何关于接受将浓缩核材料运出该国的内容。",
@@ -1013,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 06时07分]"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 19时57分]"
         },
         {
           "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
@@ -1073,17 +1134,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
           "title": "美国白宫：在“史诗经济狂怒”行动的压力下，伊朗的经济已经完全瘫痪。",
           "url": "https://flash.jin10.com/detail/20260512022956471800",
           "source": "金十数据",
@@ -1104,6 +1154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美国白宫：伊朗政权必须承认哈尔克岛油罐已满的事实 。",
@@ -1189,7 +1250,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -1274,8 +1335,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时57分 ~ 19时57分]"
+        },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
@@ -1286,18 +1359,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 06时07分]"
-        },
-        {
-          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
-          "url": "https://wallstreetcn.com/articles/3771942",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 17时37分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -1332,8 +1393,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 19时57分]"
         },
         {
           "title": "美股正重演2000年泡沫破灭剧本？“大空头”再发警告：纳指100将迎重大逆转！",
@@ -1486,6 +1547,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        },
+        {
+          "title": "安徳玛第四财季净营收11.7亿美元，同比下降0.8%，预估11.7亿美元。 第四财季每股亏损0.10美元，上年同期每股亏损0.16美元。 第四财季经营亏损3,370万美元，上年同期亏损7,210万美元，预估亏损1,740万美元。 安徳玛预计2027财年调整后每股收益0.080美元至0.12美元；预计2027财年经营利润9,600万美元至1.16亿美元。 安德玛美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3102260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "美国CPI倒计时，美元、黄金、美股迎“四种剧本” | 情景剖析",
+          "url": "https://flash.jin10.com/detail/20260512192838010800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     },
@@ -1500,7 +1583,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
