@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T18:33:30.907659+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-07-28T20:52:38.590737+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -140,11 +140,12 @@
           "ranks": [
             13,
             17,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 20时52分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
@@ -310,9 +311,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
+        },
+        {
+          "title": "美媒：内塔尼亚胡本次访美对特朗普决策的影响大不如前",
+          "url": "https://flash.jin10.com/detail/20260728201348874800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "美国总统特朗普：交通部长Duffy已经要求在美国生产小型车和微型车。",
@@ -450,7 +462,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美股",
@@ -474,8 +486,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时08分 ~ 20时52分]"
         },
         {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
@@ -580,11 +592,25 @@
           "source": "贴吧",
           "ranks": [
             6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时52分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时52分]"
         },
         {
           "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
@@ -597,18 +623,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时08分 ~ 15时37分]"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            20,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时33分]"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -662,7 +676,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -722,6 +736,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728201416107800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
           "url": "https://flash.jin10.com/detail/20260728040127842800",
           "source": "金十数据",
@@ -753,6 +778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "康宁美股盘前大跌超15%，公司预计第三季度核心销售额49亿至50亿美元，市场预估50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
         },
         {
           "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
@@ -877,6 +913,18 @@
           "time_info": "05时09分"
         },
         {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时52分]"
+        },
+        {
           "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
           "url": "https://flash.jin10.com/detail/20260728044248647800",
           "source": "金十数据",
@@ -900,27 +948,17 @@
           "time_info": "[01时41分 ~ 03时25分]"
         },
         {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时33分]"
-        },
-        {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时52分]"
         },
         {
           "title": "泽连斯基：乌克兰与伊朗已处于战争中",
@@ -930,8 +968,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时37分 ~ 20时52分]"
+        },
+        {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时37分 ~ 18时33分]"
+          "time_info": "[18时33分 ~ 20时52分]"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 20时52分]"
         },
         {
           "title": "美称若谈判破裂将强力打击伊朗",
@@ -956,17 +1018,6 @@
           "time_info": "01时41分"
         },
         {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
           "source": "凤凰网",
@@ -976,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
-        },
-        {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
@@ -1090,7 +1130,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1101,7 +1141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1120,7 +1160,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -1141,11 +1181,23 @@
           "url": "https://wallstreetcn.com/articles/3778049",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 20时52分]"
+        },
+        {
+          "title": "ChatGPT反过来跟我倾诉",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%8F%8D%E8%BF%87%E6%9D%A5%E8%B7%9F%E6%88%91%E5%80%BE%E8%AF%89&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "20时52分"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -1171,7 +1223,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -1211,11 +1263,12 @@
             1,
             7,
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时41分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[01时41分 ~ 20时52分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
